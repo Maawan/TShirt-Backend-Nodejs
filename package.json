@@ -1,0 +1,28 @@
+{
+  "name": "tshirtstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "HayatSoftwares Pvt Ltd",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.40.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.4",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1",
+    "razorpay": "^2.9.2",
+    "stripe": "^13.2.0",
+    "uuid": "^9.0.0",
+    "validator": "^13.11.0"
+  }
+}
